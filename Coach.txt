@@ -1,0 +1,454 @@
+#        LEGENDS ROSTER FILE
+
+#
+
+#    for Pro Football Coach C Achi Jones
+
+#
+
+#    1988    Cincinnati Bengals    Average
+
+#    2000    Baltimore Ravens    Average
+
+#    1979    Pittsburgh Steelers    Average
+
+#    1955    Cleveland Browns    Average
+
+#    1968    New York Jets        Average
+
+#    1991    Buffalo Bills        Average
+
+#    2004    New England Patriots    Average
+
+#    1984    Miami Dolphins        Easy
+
+#    1999    Tennessee Titans    Hard
+
+#    1999    Jacksonville Jaguars    Hard
+
+#    1979    Houston Oilers        Very Hard
+
+#    2006    Indianapolis Colts    Average
+
+#    1998    Denver Broncos        Easy
+
+#    1969    Kansas City Chiefs    Average
+
+#    2006    San Diego Chargers    Very Hard
+
+#    1976    Oakland Raiders        Easy
+
+#    1962    Green Bay Packers    Easy
+
+#    1953    Detroit Lions        Hard
+
+#    1969    Minnesota Vikings    Very Hard
+
+#    1985    Chicago Bears        Easy
+
+#    1971    Dallas Cowboys        Easy
+
+#    1991    Washington Redskins    Easy
+
+#    2004    Philadelphia Eagles    Average
+
+#    1986    New York Giants        Average
+
+#    1998    Atlanta Falcons        Hard
+
+#    2015    Carolina Panthers    Average
+
+#    2002    Tampa Bay Buccaneers    Hard
+
+#    2009    New Orleans Saints    Average
+
+#    2015    Arizona Cardinals    Very Hard
+
+#    1989    San Francisco 49ers    Easy
+
+#    2013    Seattle Seahawks    Average
+
+#    1999    Los Angeles Rams    Easy
+
+#
+
+#Name,Age,Rookie Year,Pot,FIQ,Dur,Attr1,Attr2,Attr3,Money,Years
+
+#
+
+Cincinnati Bengals,CIN
+
+QB,Boomer Esiason,24,2015,102,86,87,99,102,98,7.9,6
+
+QB,Turk Schonert,23,2014,93,80,77,92,91,80,4,4
+
+RB,James Brooks,25,2013,103,88,77,81,81,94,2.4,5
+
+RB,Ickey Woods,23,2016,100,83,84,92,97,83,3.3,5
+
+RB,Stanley Wilson,24,2013,82,82,88,81,90,82,1.1,4
+
+RB,Stanford Jennings,23,2016,88,84,70,86,87,82,1.7,5
+
+WR,Eddie Brown,24,2014,98,80,83,93,99,86,2.4,4
+
+WR,Rodney Holman,24,2015,105,88,85,94,94,86,3.5,5
+
+WR,Tim McGee,23,2014,92,83,76,80,99,81,3.9,4
+
+WR,Cris Collinsworth,25,2013,87,83,73,87,84,81,1.4,4
+
+WR,Ira Hillary,25,2013,86,79,79,88,84,81,1.2,4
+
+WR,Jim Riggs,25,2014,82,81,95,84,90,82,2,4
+
+OL,Bruce Kozerski,23,2016,103,90,86,97,97,91,3.7,4
+
+OL,Anthony Munoz,24,2014,102,82,96,91,96,91,2,4
+
+OL,Bruce Reimers,25,2013,95,86,72,94,86,97,3.4,4
+
+OL,Joe Walter,25,2012,97,84,70,82,99,96,2.7,4
+
+OL,Max Montoya,23,2014,103,82,94,89,85,91,2.3,5
+
+OL,Brian Blados,23,2016,85,76,91,82,84,83,1.2,5
+
+OL,David Douglas,25,2012,87,77,90,84,81,83,1,4
+
+OL,David Grant,25,2012,89,75,73,80,90,89,1.4,4
+
+OL,Curtis Maxey,24,2015,83,76,86,82,85,87,1.9,5
+
+OL,Dave Smith,23,2015,83,84,72,80,86,86,1.4,4
+
+K,Jim Breech,27,2011,115,90,87,101,110,107,1.7,5
+
+K,Scott Fulhage,24,2014,94,89,94,86,85,82,1.5,5
+
+S,David Fulcher,25,2014,85,80,91,100,84,93,2,4
+
+S,Barney Bussey,24,2015,75,76,77,73,74,70,0.5,5
+
+CB,Lewis Billups,24,2013,86,88,87,83,82,75,3,5
+
+CB,Eric Thomas,23,2014,86,81,81,78,77,85,1.6,4
+
+CB,Solomon Wilcots,23,2016,87,88,85,83,85,80,1.6,5
+
+CB,Ellis Dillahunt,25,2014,73,78,73,71,72,70,1.5,4
+
+CB,Rickey Dixon,27,2012,77,71,75,74,70,70,2,4
+
+CB,Ray Horton,26,2012,72,70,87,70,72,72,2,4
+
+DL,Tim Krumrie,23,2015,82,84,74,81,82,81,2.3,4
+
+DL,Skip McClendon,24,2015,88,90,96,78,75,79,1.8,4
+
+DL,Jim Skow,23,2014,88,90,80,77,83,75,2.2,5
+
+DL,Joe Kelly,24,2015,89,81,97,83,76,78,2.3,5
+
+DL,Jason Buck,24,2014,78,72,70,74,70,75,1.2,3
+
+DL,Eddie Edwards,23,2016,73,78,84,73,75,74,1.4,3
+
+DL,Marc Logan,26,2013,71,73,74,70,71,72,1.3,4
+
+DL,Daryl Smith,27,2010,73,73,81,71,75,72,1.7,3
+
+LB,Leon White,25,2013,90,77,86,75,85,83,1.5,4
+
+LB,Reggie Williams,25,2014,85,75,73,80,82,78,1.5,5
+
+LB,Carl Zander,25,2012,80,81,75,84,76,78,2.1,5
+
+LB,Leo Barker,25,2013,75,79,85,72,75,70,1.7,3
+
+LB,Ed Brady,27,2011,80,78,91,74,72,75,1.9,4
+
+LB,Tim Inglis,25,2013,77,72,72,71,75,72,1.8,4
+
+LB,Emanuel King,23,2015,76,80,71,72,75,72,1.8,4
+
+LB,Kevin Walker,23,2016,72,76,76,73,70,74,1.5,4
+
+END_PLAYERS
+
+Baltimore Ravens,BAL
+
+QB,Tony Banks,26,2013,102,88,85,105,104,102,7.6,5
+
+QB,Trent Dilfer,25,2014,86,80,76,90,83,95,3.6,5
+
+RB,Jamal Lewis,25,2013,103,80,93,88,97,94,2.9,4
+
+RB,Priest Holmes,24,2013,94,89,95,84,87,81,3.3,5
+
+RB,Obafemi Ayanbadejo,23,2014,88,76,91,87,89,85,1,4
+
+RB,Ben Coates,24,2015,88,75,79,84,82,87,2.6,4
+
+WR,Shannon Sharpe,25,2014,103,88,89,92,89,94,2.5,4
+
+WR,Qadry Ismail,24,2014,96,87,94,85,89,91,3,4
+
+WR,Travis Taylor,23,2015,92,82,88,100,95,80,2,4
+
+WR,Patrick Johnson,25,2012,87,80,71,89,81,83,1.8,4
+
+WR,Brandon Stokley,23,2015,81,83,74,83,90,81,2,5
+
+WR,Jermaine Lewis,23,2015,86,78,87,80,82,83,3,4
+
+OL,Jonathan Ogden,25,2012,92,83,88,94,92,80,2.9,4
+
+OL,Edwin Mulitalo,25,2012,93,82,81,95,83,93,3.7,4
+
+OL,Jeff Mitchell,23,2016,99,90,98,87,81,99,2.1,5
+
+OL,Mike Flynn,25,2013,92,80,91,96,88,94,2,5
+
+OL,Harry Swayne,24,2014,93,80,90,80,96,85,2.7,4
+
+OL,Kipp Vickers,23,2016,90,75,98,89,90,87,2.1,4
+
+OL,Sammy Williams,25,2012,84,75,74,90,81,83,2.1,4
+
+OL,Orlando Bobo,25,2012,84,75,72,82,87,80,1,4
+
+OL,Spencer Folau,23,2016,85,77,84,87,83,90,2.5,5
+
+OL,John Hudson,23,2016,87,78,99,83,90,89,1.6,4
+
+K,Matt Stover,26,2013,111,97,95,97,107,97,2.9,5
+
+K,Kyle Richardson,25,2013,89,83,93,95,85,80,0.8,4
+
+S,Kim Herring,23,2015,115,90,85,110,96,109,2.2,7
+
+S,Corey Harris,23,2014,86,90,82,82,100,90,2,5
+
+CB,Duane Starks,26,2013,105,90,90,101,110,113,2.3,5
+
+CB,Chris McAlister,27,2010,106,90,71,101,103,106,2.1,6
+
+CB,Rod Woodson,27,2012,106,96,80,106,112,108,3.9,6
+
+CB,Anthony Poindexter,25,2014,90,76,99,91,87,86,2.3,4
+
+CB,Robert Bailey,25,2012,95,87,85,88,95,89,3,4
+
+CB,Anthony Mitchell,25,2013,94,79,83,86,99,88,2.7,5
+
+DL,Sam Adams,24,2014,113,96,79,108,108,108,3.1,6
+
+DL,Rob Burnett,24,2014,105,97,98,100,102,104,2.4,7
+
+DL,Tony Siragusa,24,2013,106,99,82,102,100,115,3.6,7
+
+DL,Michael McCrary,24,2014,106,94,94,105,114,113,2.2,6
+
+DL,Adalius Thomas,23,2014,97,83,96,92,100,86,2.7,4
+
+DL,Keith Washington,25,2013,95,76,85,99,97,92,1.1,5
+
+DL,Larry Webster,24,2013,102,78,93,85,99,94,1.1,4
+
+DL,Carl Powell,25,2014,91,86,89,86,87,89,1.6,5
+
+LB,Peter Boulware,25,2013,112,99,87,105,101,100,3.3,5
+
+LB,Ray Lewis,26,2012,111,95,91,108,115,115,3,6
+
+LB,Jamie Sharper,24,2013,114,96,96,109,112,104,3.3,6
+
+LB,OJ Brigance,23,2015,104,80,81,94,94,98,2.8,5
+
+LB,Cornell Brown,23,2014,96,78,89,93,95,90,2.4,5
+
+LB,Anthony Davis,24,2015,105,79,77,94,87,88,2.6,4
+
+LB,Brad Jackson,25,2012,91,87,86,90,86,91,2.2,4
+
+LB,James Trapp,24,2015,103,90,93,96,85,100,2.4,4
+
+END_PLAYERS
+
+Pittsburgh Steelers,PIT
+
+QB,Terry Bradshaw,24,2013,115,90,95,106,107,114,8.9,5
+
+QB,Mike Kruczek,24,2015,102,84,80,99,95,101,5,5
+
+RB,Franco Harris,26,2012,115,91,84,101,106,101,4.9,7
+
+RB,Sidney Thornton,23,2015,111,95,90,111,102,111,3.4,7
+
+RB,Rocky Bleier,25,2014,98,89,83,90,87,94,2.3,4
+
+RB,Greg Hawthorne,24,2015,96,85,82,84,85,81,2,4
+
+RB,Rick Moser,23,2015,107,90,82,114,103,111,3.1,5
+
+WR,John Stallworth,23,2015,105,96,95,107,100,110,3.5,5
+
+WR,Lynn Swann,23,2016,115,98,95,107,110,101,4,5
+
+WR,Bennie Cunningham,25,2013,91,82,72,99,82,93,3.6,4
+
+WR,Jim Smith,24,2014,100,90,78,84,84,86,3.8,5
+
+WR,Randy Grossman,25,2012,104,88,85,98,88,85,3.4,5
+
+WR,Theo Bell,27,2012,114,98,83,113,101,100,5.6,5
+
+OL,Larry Brown,23,2015,113,90,99,107,100,112,5.3,6
+
+OL,Steve Courson,26,2013,112,99,82,113,112,112,4.8,5
+
+OL,Sam Davis,27,2010,106,92,99,101,112,103,5.4,5
+
+OL,Thom Dornbrook,23,2014,108,95,88,110,103,102,3.5,5
+
+OL,Jon Kolb,24,2015,99,84,74,98,98,91,2.9,4
+
+OL,Gerry Mullins,23,2015,91,86,90,92,93,82,2.5,5
+
+OL,Ted Petersen,25,2014,94,82,77,91,99,92,3.2,5
+
+OL,Mike Webster,23,2016,103,89,79,91,96,99,3.2,4
+
+OL,Ray Pinney,24,2013,95,81,86,82,81,86,3,5
+
+K,Matt Bahr,26,2012,112,91,93,111,113,101,1.5,7
+
+K,Craig Colquitt,25,2013,99,85,90,92,100,82,1.5,4
+
+S,Donnie Shell,26,2011,103,91,95,101,96,112,1.6,6
+
+S,JT Thomas,25,2012,98,76,98,84,85,90,1.1,5
+
+CB,Mike Wagner,24,2013,101,75,90,92,87,96,2,4
+
+CB,Mel Blount,24,2014,90,84,77,93,96,92,1.8,5
+
+CB,Dwayne Woodruff,23,2016,98,85,85,96,90,92,2.4,5
+
+CB,Ron Johnson,25,2014,81,85,74,78,84,78,2.9,5
+
+CB,Larry Anderson,24,2014,90,87,70,80,82,85,2.9,4
+
+CB,Thom Dornbrook,25,2013,80,80,78,76,78,81,2.4,4
+
+DL,John Banaszak,24,2015,100,83,72,90,99,88,1.9,5
+
+DL,Gary Dunn,24,2013,93,84,81,98,93,88,2,4
+
+DL,Steve Furness,25,2013,93,80,84,98,89,99,2.2,5
+
+DL,Dwight White,24,2014,91,78,75,99,93,86,1.2,5
+
+DL,Joe Greene,25,2013,89,89,88,84,80,85,2.5,4
+
+DL,LC Greenwood,25,2013,84,80,91,82,84,77,3,5
+
+DL,Tom Beasley,23,2016,88,85,90,84,77,79,2.6,4
+
+DL,Fred Anderson,25,2012,81,77,88,77,77,76,1.6,5
+
+LB,Jack Lambert,23,2015,101,76,77,99,93,92,2.8,4
+
+LB,Dennis Winston,25,2013,105,79,76,92,89,91,2.5,5
+
+LB,Jack Ham,24,2015,92,83,91,99,96,95,2.3,5
+
+LB,Robin Cole,23,2016,95,79,84,97,85,100,1.4,5
+
+LB,Tom Graves,24,2015,85,90,97,84,80,85,2.6,4
+
+LB,Loren Toews,24,2014,85,83,77,77,75,76,3,4
+
+LB,Zack Valentine,24,2013,85,76,95,78,75,82,1,4
+
+LB,Anthony Anderson,25,2014,90,83,79,75,83,82,2.1,5
+
+END_PLAYERS
+
+Cleveland Browns,CLE
+
+QB,Otto Graham,25,2014,97,81,81,99,102,103,7.3,7
+
+QB,George Ratterman,25,2014,87,75,78,84,90,81,3.4,5
+
+QB,Tommy O'Connell,25,2012,85,80,80,90,93,77,3.1,4
+
+RB,Fred Morrison,24,2015,100,81,71,87,82,93,4,4
+
+RB,Ed Modzelewski,25,2014,105,88,90,89,98,80,2,4
+
+RB,Maurice Bassett,25,2013,89,81,75,89,90,90,2,4
+
+RB,Johnny Petitbon,23,2015,87,82,90,81,90,83,2.5,5
+
+RB,Bob Smith,25,2014,87,81,70,90,90,85,1.8,5
+
+WR,Pete Brewster,24,2013,103,82,82,85,92,80,2.9,4
+
+WR,Ray Renfro,25,2012,99,86,95,84,100,92,3.3,4
+
+WR,Dante Lavelli,24,2015,102,90,99,83,81,93,3.1,5
+
+WR,Dub Jones,25,2014,82,85,72,81,86,81,1,4
+
+WR,Don Paul,23,2016,85,85,70,89,88,90,1.4,4
+
+WR,Kenny Konz,23,2016,82,84,98,88,86,88,2.3,4
+
+OL,Harold Bradley,23,2015,103,88,74,92,93,85,2.4,5
+
+OL,Len Ford,24,2014,96,87,86,84,80,83,4,5
+
+OL,Herschel Forester,23,2014,96,84,73,95,85,96,3.2,5
+
+OL,Mike Mccormack,25,2012,102,88,84,95,100,97,2.1,4
+
+OL,John Kissell,24,2015,94,85,89,86,91,90,3.1,4
+
+OL,Abe Gibron,25,2013,87,81,82,83,90,90,2.2,5
+
+OL,Sam Palumbo,25,2012,85,84,91,85,83,84,1.6,5
+
+OL,John Sandusky,24,2015,88,79,95,81,84,83,1.7,5
+
+OL,Art Hunter,23,2016,83,76,85,87,86,86,1.2,4
+
+OL,John Macerelli,23,2014,80,82,88,88,85,82,1,4
+
+K,Lou Groza,25,2014,103,93,97,95,112,113,1.6,7
+
+K,Horace Gillom,25,2012,87,84,88,86,81,94,2,4
+
+S,Henry Ford,27,2012,108,94,88,107,107,114,2.4,7
+
+S,Skeets Quinlan,24,2015,98,75,78,99,93,94,2,5
+
+CB,Warren Lahr,26,2013,113,98,99,100,98,100,3,6
+
+CB,Ken Konz,25,2014,104,88,90,110,102,107,2.8,6
+
+CB,Frank Gatski,24,2015,101,92,87,104,100,106,3.1,5
+
+CB,Billy Kinard,24,2015,99,77,80,80,87,91,1,4
+
+DL,Carlton Massey,23,2014,103,90,93,104,100,106,2.8,5
+
+DL,Don Colo,23,2015,107,93,87,97,96,105,3.3,6
+
+DL,Bob Gain,23,2014,100,90,96,97,103,96,2.6,5
+
+DL,Tom Jones,25,2013,112,92,94,99,109,95,3.8,7
+
+DL,Chuck Weber,23,2016,88,89,76,87,94,99,0.5,5
+
